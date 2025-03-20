@@ -1,0 +1,20 @@
+# Session 2: Ignore images
+session2/chickens/data
+# Session 2: Ignore model and cocosplit
+session2/detectron2
+session2/cocosplit
+# Session 2: Ignore model weights
+session2/chickens/output
+# Session 3: Ignore images, model weights, and predictions
+session3/Data
+session3/Processed_Data
+session3/MTCNN_preds
+session3/keras-facenet
+
+
+# Ignore demo files
+session2/chickens/Session2_demo.ipynb
+session3/Demo
+session4/Session4_demo.ipynb
+session4/Session_4_Assignment_Notebook.ipynb
+session5/Find_your_best_team_using_genetic_algorithms.ipynb
