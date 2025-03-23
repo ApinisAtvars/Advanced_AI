@@ -7,12 +7,12 @@ I use a different anaconda environment for each class, and I try my best to reme
 
 ## Curriculum
 
-## - Session 1: Data Preparation (Not in this repository)
+### - Session 1: Data Preparation (Not in this repository)
 
-## - Session 2: Object Detection Using Meta's Detectron2
+### - Session 2: Object Detection Using Meta's Detectron2
 
-## - Session 3: Image Embeddings
+### - Session 3: Image Embeddings
 
-## - Session 4: Time Series Analysis
+### - Session 4: Time Series Analysis
 
-## - Session 5: Genetic Algorithms
+### - Session 5: Genetic Algorithms
