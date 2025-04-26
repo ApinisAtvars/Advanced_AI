@@ -1,0 +1,9 @@
+team;stats_weight;weaknesses_weight;resistance_weight;offensive_coverage_weight;stab_power_weight;power_percentage;safety_percentage
+['cyclizar', 'zarude-dada', 'wyrdeer', 'rotom-frost', 'blaziken-mega', 'nidoking'];5.0;-10;7;5.0;1;88;86
+['dolliv', 'obstagoon', 'dragalge', 'meloetta-aria', 'lucario-mega', 'nidoking'];10.0;-10;7;5.0;1;86;91
+['clodsire', 'rotom-mow', 'rotom-frost', 'blaziken-mega', 'obstagoon', 'meloetta-aria'];10.0;-10;7;5.0;1;88;97
+['nidoking', 'arctozolt', 'annihilape', 'meloetta-aria', 'arboliva', 'venomoth'];10.0;-10;7;5.0;1;83;88
+['wyrdeer', 'zoroark-hisui', 'zamazenta-crowned', 'arboliva', 'eternatus-eternamax', 'nidoqueen'];10.0;-10;7;5.0;1;72;83
+['heliolisk', 'farigiraf', 'urshifu-rapid-strike-gmax', 'linoone-galar', 'regigigas', 'naganadel'];10.0;-10;7;5.0;1;63;88
+['ursaluna-bloodmoon', 'arboliva', 'beedrill-mega', 'arctozolt', 'cyclizar', 'meditite'];10.0;-10;7;5.0;1;75;80
+['decidueye-hisui', 'dragalge', 'indeedee-female', 'nidoking', 'zoroark-hisui', 'terapagos-terastal'];10.0;-7;7;3.0;1;69;86
